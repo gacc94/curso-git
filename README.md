@@ -8,3 +8,6 @@
 ~~~
 git push origin --delete [nombre rama]
 ~~~
+
+Este commit es para oficializa la version 1.0.0
+
